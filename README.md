@@ -2,7 +2,7 @@
 Author : Toni Hari Wibowo (20200801314)
 
 
-<img src="Capture.png" align="centre">
+<img src="https://github.com/ToniHariWibowo/UAS_DW_ETL_20200801314/blob/main/Capture.PNG" align="centre">
 
 Description : 
 Repositori ini merupakan tempat penyimpanan hasil dari Ujian Akhir Semester saya di Esa Unggul dalam mata kuliah Data Warehouse, dimana tugas itu diberikan kepada kami, agar kami dapat memahami Data Wirehouse. Isi didalam repositori ini merupakan hasil dari proses Extract, Transform dan Load Data melalui tools Pentaho yang dihubungkan kedalam PostgreSQL dan juga PowerBI
